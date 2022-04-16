@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Miriam Luna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://miriamlunac.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://miriamlunac.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://miriamlunac.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://miriamlunac.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola a todos! Me gustaría compartirles todo lo que he aprendido en Launch X.
+Al inicio tenía muchas emociones encontradas, a pesar de haber salido de una carrera de tecnología y ya tener un año trabajando como desarrolladora de back, y de haber ayudado en algunos proyectos en front-end, siento que aún no tengo las habilidades necesarias de un desarrollador de software.
+En la primera semana, vimos conceptos básicos de programación, sin embargo, jamás había utilizado python, por lo que fue un reto interesante, aprendí un tanto de ese nuevo lenguaje, y me encantó.</description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarrollador de Software</title>
       <link>https://miriamlunac.github.io/my_launchx_blog/posts/intro/</link>
